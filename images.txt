@@ -1,3 +1,6 @@
 nginx
 hello-world
 jeessy/ddns-go
+redis
+mariadb
+nextcloud
