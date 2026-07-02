@@ -4,3 +4,4 @@ jeessy/ddns-go
 redis
 mariadb
 nextcloud
+onlyoffice
