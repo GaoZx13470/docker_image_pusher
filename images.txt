@@ -9,3 +9,4 @@ onlyoffice/documentserver
 certbot/certbot
 neilpang/acme.sh
 alpine
+mariadb:11.8
