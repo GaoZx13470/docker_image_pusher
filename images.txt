@@ -10,3 +10,4 @@ certbot/certbot
 neilpang/acme.sh
 alpine
 mariadb:11.8
+pan93412/unblock-netease-music-enhanced
