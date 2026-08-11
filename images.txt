@@ -12,4 +12,4 @@ alpine
 mariadb:11.8
 pan93412/unblock-netease-music-enhanced
 deluan/navidrome
-owo-network/deeplx
+ghcr.io/owo-network/deeplx:latest
