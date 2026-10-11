@@ -1,5 +1,5 @@
-wxyhgk/retainpdf-app
-wxyhgk/retainpdf-web
+wxyhgk/retainpdf-app:latest
+wxyhgk/retainpdf-web:latest
 awwaawwa/pdfmathtranslate-next
 nginx
 hello-world
